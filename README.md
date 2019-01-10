@@ -1,2 +1,2 @@
 # AIAlgorithms
-Me doing personal projects with Artificial Intelligence
+Me doing personal projects with Artificial Intelligence Algorithms
