@@ -29,6 +29,7 @@ def evaluate(board, max_player):
     How to score:
     +1 for one in a line and two empty cells
     +10 for two in a line and one empty cells
+    +50 for blocking min player
     +100 for three in a line
     - same criteria for opponents pieces
     a line is the 3 horizontals, 3 verticals, and 2 diagonals
